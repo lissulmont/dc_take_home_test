@@ -32,13 +32,13 @@ Regularization addresses one of the most likely culprits hurting your model perf
 
 ## Course 2: Imbalanced Data and Data Augmentation 
 
-Ever thought: "if only I had more data…"? Data augmentation answers that by making new data from the data you have! You will be using  [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) image dataset to classify six types of fish species. The catch is that three of the species make up less than 10% of the total data. This type of issue is called imbalanced data and it comes up often with real-world problems, where data is limited and imperfect. In this course, you will learn how to tackle this problem with sampling and data augmentation methods. 
+Ever thought: "if only I had more data…"? Data augmentation answers that by making new data from the data you have! You will be using  [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) image dataset to classify six types of fish species. The catch is that three of the species make up less than 10% of the total data. This type of issue is called imbalanced data, and it comes up often with real-world problems, where data is limited and imperfect. In this course, you will learn how to tackle this problem with sampling and data augmentation methods. 
 
 ##### Learning Objectives:
 
 1. Learner will be able to evaluate imbalanced data and its effect on model performance using the F1-score and a confusion matrix.
 2. Learner will be able to explain the different advantages and disadvantages of oversampling and undersampling.
-3. Learner will be able to list different data augmentation strategies and implement them
+3. Learner will be able to list different data augmentation strategies and implement them.
 
 #### Prerequisites:
 
