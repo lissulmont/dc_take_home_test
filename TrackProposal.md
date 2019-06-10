@@ -1,4 +1,4 @@
-#Evaluating and Optimizing Deep Learning Performance with Python
+# Evaluating and Optimizing Deep Learning Performance with Python
 
 Preparing your data and setting up your model is only half the process! This track takes an in-depth look at the iterative process of tuning and evaluating your deep learning models. 
 
@@ -43,8 +43,6 @@ Ever thought: "if only I had more data…"? Data augmentation answers that by ma
 #### Prerequsites:
 
 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python#!) because this course assumes fundamental knowledge in deep neural networks and Keras. 
-
-
 
 
 ## Course 3: Optimizing Deep Neural Networks
