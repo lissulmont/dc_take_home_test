@@ -4,7 +4,7 @@ Preparing your data and setting up your model is only half the process! This tra
 
 ## Track Objectives
 
-1. Learner will be able to evaluate and describe a  deep neural network's performance using concepts, such as overfitting, data imbalance, and fairness.
+1. Learner will be able to evaluate and describe a  deep neural network's performance using concepts, such as overfitting, imbalanced data, and fairness.
 2. Given a deep neural network suffering from overfitting, learner will be able to improve its performance using appropriate regularization and data augmentation techniques.
 3. Learner will be able to improve a deep neural network's performance and run-time using optimization algorithms and/or a pre-trained model.
 4. Leaner will be able to tune a model's hyperparameters effectively in terms of performance and run-time.
