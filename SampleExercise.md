@@ -1,6 +1,6 @@
 # Sample Exercise
 
-This is a sample exercise for Lesson 1.2 in the Imbalanced Data and Data Augmentation course.
+This is a sample exercise for [Lesson 1.2 in the Imbalanced Data and Data Augmentation course](https://github.com/lissulmont/dc_take_home_test/blob/master/CourseOutline.md#chapter-1---problem-of-imbalanced-data).
 
 ## Context
 
