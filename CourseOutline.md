@@ -1,4 +1,5 @@
 # Course:  Imbalanced Data and Data Augmentation
+[Link to course](https://github.com/lissulmont/dc_take_home_test/blob/master/TrackProposal.md#course-2-data-imbalance-and-data-augmentation)
 
 ## Chapter 1 - Problem of Imbalanced Data 
 
