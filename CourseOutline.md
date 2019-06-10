@@ -1,7 +1,5 @@
 # Course:  Imbalanced Data and Data Augmentation
 
-
-
 ## Chapter 1 - Problem of Imbalanced Data 
 
 - Lesson 1.1 - Introduction to Imbalanced Data
@@ -16,7 +14,6 @@
 
   - A learning objective: Demonstrate why the F1-Score is a better metric than accuracy for classfiying an imbalanced data set.
 
-  ​
 
 ## Chapter 2 - Undersampling and Oversampling 
 
@@ -36,7 +33,6 @@
 
   - A learning objective: Evaluate the best sampling method for a given imbalanced dataset.
 
-  ​
 
 ## Chapter 3 - Data Augmentation
 
@@ -56,7 +52,6 @@
 
   - A learning objective:  Create an [ImageDataGenerator](https://keras.io/preprocessing/image/) class for real-time data augmentation.
 
-  ​
 
 ## Chapter 4 - Putting it all Together - Classifying Fish Species
 
@@ -72,5 +67,4 @@
 
   - A learning objective: Evaluate the improvement of performance using the F1-Score and a confusion matrix.
 
-  ​
 
