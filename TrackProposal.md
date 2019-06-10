@@ -1,4 +1,4 @@
-# Evaluating and Optimizing Deep Learning Performance with Python
+# Track: Evaluating and Optimizing Deep Learning Performance with Python
 
 Preparing your data and setting up your model is only half the process! This track takes an in-depth look at the iterative process of tuning and evaluating deep learning models. 
 
