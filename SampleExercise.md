@@ -1,5 +1,3 @@
-
-
 # Sample Exercise
 
 This is a sample exercise for Lesson 1.2 in the Imbalanced Data and Data Augmentation course.

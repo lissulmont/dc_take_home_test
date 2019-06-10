@@ -32,15 +32,15 @@ Regularization addresses one of the most likely culprits hurting your model perf
 
 ##Course 2: Data Imbalance and Data Augmentation 
 
-Ever thought: "if only I had more data…"? Data augmentation answers that by making new data from the data you have! You will be using  [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) image dataset to classify six types of fish species. The catch is that three of the species make up less than 10% of the total data. This type of issue is called imbalanced data and it comes up often with real-world problems, where data is limited and imperfect. In this course, you will learn how tackle this problem with sampling and data augmentation methods. 
+Ever thought: "if only I had more data…"? Data augmentation answers that by making new data from the data you have! You will be using  [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) image dataset to classify six types of fish species. The catch is that three of the species make up less than 10% of the total data. This type of issue is called imbalanced data and it comes up often with real-world problems, where data is limited and imperfect. In this course, you will learn how to tackle this problem with sampling and data augmentation methods. 
 
 ##### Learning Objectives:
 
-1. Learner will be able to evaluate data imablance and its affect on model performance using the F1-score and a confusion-matrix.
-2. Learner will be able to explain the different advantages and disadvantages between oversampling and undersampling.
+1. Learner will be able to evaluate data imbalance and its effect on model performance using the F1-score and a confusion matrix.
+2. Learner will be able to explain the different advantages and disadvantages of oversampling and undersampling.
 3. Learner will be able to list different data augmentation strategies and implement them
 
-#### Prerequsites:
+#### Prerequisites:
 
 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python#!) because this course assumes fundamental knowledge in deep neural networks and Keras. 
 
@@ -55,7 +55,7 @@ Training a deep neural network takes hours, even days. That's why a lot of resea
 2. Learner will be able to compare and contrast the following optimization algorithms: mini-batch gradient descent, RMSprop, and Adam.
 3. Learner will be able to evaluate the effectiveness of an optimization algorithm based on time to train and model performance results.
 
-#### Prerequsites:
+#### Prerequisites:
 
 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python#!) because this course assumes fundamental knowledge in deep neural networks and uses Keras 2.0. 
 
@@ -70,37 +70,37 @@ A deep neural network can come with many hyperparameters: learning rate, number 
 2. Learner will be able to select and justify hyperparameters for a model based on the results of a hyperparameter optimization method.
 3. Learner will be able to compare different hyperparameter optimization methods.
 
-#### Prerequsites:
+#### Prerequisites:
 
 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python#!) because this course assumes fundamental knowledge in deep neural networks. 
 
 
 ## Course 5: Introduction to Transfer Learning and Pre-Trained Models 
 
-As you know deep neural networks take a lot of data, resources, and time to train. So, why start from scratch each time we train a new model? This is the essence of transfer learning which leverages pre-trained models to solve new problems in similar domains. In this course, you will use Keras to download a [convolutional neural net pretrained on the ImageNet dataset](https://keras.io/applications/#inceptionresnetv2) and re-train it to classify to [fruits](https://www.kaggle.com/moltean/fruits).  
+As you know, deep neural networks take a lot of data, resources, and time to train. So, why start from scratch each time we train a new model? This is the essence of transfer learning, which leverages pre-trained models to solve new problems in similar domains. In this course, you will use Keras to download a [convolutional neural net pretrained on the ImageNet dataset](https://keras.io/applications/#inceptionresnetv2) on the ImageNet dataset and re-train it to classify  [fruits](https://www.kaggle.com/moltean/fruits).  
 
 #### Learning Objectives:
 
 1. Learner will be able to describe the process of transfer learning and how it differs from traditional machine learning.
-2. Learner will be able use a pre-trained ImageNet convolutional neural network to solve an image classification problem.
+2. Learner will be able to use a pre-trained ImageNet convolutional neural network to solve an image classification problem.
 
-#### Prerequsites:
+#### Prerequisites:
 
-- [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing) because this course requires an understanding in CNNs.
+- [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing) because this course requires an understanding of CNNs.
 
 
 ## Course 6: Evaluating Fairness and Bias in Machine Learning Models 
 
-Because of the black-box nature of machine learning and the risk of algorithmic bias, fairness has become an important performance metric to consider. Fairness in machine learning has been cited as a growing issues by the governments, big tech companies, and research instituitions. Through real-world examples, you will learn about different ways machine learning models can perpetuate harmful discriminatory biases, and, in each of these examples, you will implement methods that could have prevented such biases. 
+Because of the black-box nature of machine learning and the risk of algorithmic bias, fairness has become an important performance metric to consider. Fairness in machine learning has been cited as a growing issue by governments, big tech companies, and research institutions. Through real-world examples, you will learn about different ways machine learning models can perpetuate harmful, discriminatory biases, and, in each of these examples, you will implement methods that could have prevented such biases. 
 
 #### Learning Objectives:
 
 1. Learner will be able to describe several real-world instances of algorithmic bias. 
-2. Given a scenario and model, learner will be able to recognize potential features of the model  that could cause algorithmic bias.
-3. Learner will be able to implement basic auditing methods to evaluate a machien learning model's fairness. 
+2. Given a scenario and model, learner will be able to recognize potential features of the model that could cause algorithmic bias.
+3. Learner will be able to implement basic auditing methods to evaluate a machine learning model's fairness. 
 
-#### Prerequsites:
+#### Prerequisites:
 
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) because some of the examples used in this course are supervised models.
-- [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)because some of the examples used in this course are unsupervised models.
+- [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) because some of the examples used in this course are unsupervised models.
 

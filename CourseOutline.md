@@ -5,14 +5,10 @@
 - Lesson 1.1 - Introduction to Imbalanced Data
 
   - A learning objective: Assess the class distribution of a dataset for data imbalance.
-
 - Lesson 1.2 - Confusion-Matrix 
-
-  - A learning objective: Create a confusion-matrix for a multiclass classifier to identify the most mis-classified classes.
-
+  - A learning objective: Create a confusion-matrix for a multiclass classifier to identify the most misclassified classes.
 - Lesson 1.3 -  F1 Score
-
-  - A learning objective: Demonstrate why the F1-Score is a better metric than accuracy for classfiying an imbalanced data set.
+  - A learning objective: Demonstrate why the F1-Score is a better metric than accuracy for classifying an imbalanced data set.
 
 
 ## Chapter 2 - Undersampling and Oversampling 
@@ -46,7 +42,7 @@
 
 - Lesson 3.3 - More Advanced Methods
 
-  - A learning objective: Perform feature standardization and ZCA whitening  to create new data.
+  - A learning objective: Perform feature standardization and ZCA whitening to create new data.
 
 - Lesson 3.4 - Keras's [ImageDataGenerator](https://keras.io/preprocessing/image/)
 
