@@ -15,7 +15,7 @@ Preparing your data and setting up your model is only half the process! This tra
 
 #### Description:
 
-Regularization addresses one of the most likely culprits hurting your model performance:  overfitting (when your model is memorizing rather than learning). This course will not only teach you how to diagnose overfitting and underfitting but arm you with effective regularization techniques. You will navigate the UCI Breast Cancer Diagnostic dataset to explore hands-on how the bias-variance tradeoff relates to overfitting and underfitting. With TensorFlow, you will implement preventative strategies, such as weight penalties, dropout, and early stopping, on deep neural networks, to improve performance. 
+Regularization addresses one of the most likely culprits hurting your model performance:  overfitting (when your model is memorizing rather than learning). This course will not only teach you how to diagnose overfitting but arm you with effective regularization techniques. You will navigate the [UCI Breast Cancer Diagnostic dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic) to explore hands-on how the bias-variance tradeoff relates to overfitting and underfitting. With TensorFlow, you will implement preventative strategies on deep learning models, such as weight penalties, dropout, and early stopping. 
 
 #### Learning Objectives:
 
