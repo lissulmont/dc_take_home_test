@@ -15,7 +15,7 @@ Preparing your data and setting up your model is only half the process! This tra
 
 #### Description:
 
-Regularization adresses one of the most likely culprits hurting your model performance:  overfitting (when your model is memorzing rather than learning). This course will not only teach you how to diagnose overfitting and underfitting but arm you with effective regularization techniques. You will navigate the [UCI Breast Cancer Diagnostic](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) dataset to explore hands-on how the bias-variance tradeoff relates to overfitting and underfitting. With TensorFlow, you will implement preventative strategies, such as weight penalties, dropout, and early stopping, on deep neural networks to improve performance. 
+Regularization addresses one of the most likely culprits hurting your model performance:  overfitting (when your model is memorizing rather than learning). This course will not only teach you how to diagnose overfitting and underfitting but arm you with effective regularization techniques. You will navigate the UCI Breast Cancer Diagnostic dataset to explore hands-on how the bias-variance tradeoff relates to overfitting and underfitting. With TensorFlow, you will implement preventative strategies, such as weight penalties, dropout, and early stopping, on deep neural networks, to improve performance. 
 
 #### Learning Objectives:
 
@@ -23,7 +23,7 @@ Regularization adresses one of the most likely culprits hurting your model perfo
 2. Learner will be able to explain why regularization techniques work in preventing overfitting in relation to the bias-variance tradeoff.
 3. Learner will be able to implement regularization techniques (specifically L1/L2 regularization, dropout, and early stopping) on deep neural networks with TensorFlow. 
 
-#### Prerequsites:
+#### Prerequisites:
 
 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python#!) because this course assumes fundamental knowledge in deep neural networks. 
 
