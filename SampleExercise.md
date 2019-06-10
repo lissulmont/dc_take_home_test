@@ -12,7 +12,7 @@ This is a sample exercise for [Lesson 1.2 in the Imbalanced Data and Data Augmen
 - Predict the labels of the test data
 - Compute the confusion matrix using the correct labels and the predicted labels
 
-## Code
+## Code (in Python 3)
 
 Assumes the following has been preloaded: 
 
